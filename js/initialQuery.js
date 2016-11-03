@@ -78,7 +78,7 @@ var runQuery = function() {
   var query = {
     'event': 'Query Run',
     'properties': {
-      'token': '817b7cb55b76c69f1bf8a413e5136de4',
+      'token': '2bc1d27c6cc6f5dc8ea4809dcfb84e94',
       'Report': 'Events by Day or Hour',
       'Query': 'All Events by Day',
       'distinct_id': id,
