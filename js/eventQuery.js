@@ -48,7 +48,7 @@ var runEventQuery = function(eventName, propName, dateRange, bucket) {
         var query = {
           'event': 'Query Run',
           'properties': {
-            'token': 'ca9cd5c31c3325af1f911aaaf633ca44',
+            'token': '817b7cb55b76c69f1bf8a413e5136de4',
             'Report': 'Events by Day or Hour',
             'Query': 'Single Event Segmentation by a Property by Hour',
             'Properties Used?': true,
@@ -145,7 +145,7 @@ var runEventQuery = function(eventName, propName, dateRange, bucket) {
         var query = {
           'event': 'Query Run',
           'properties': {
-            'token': 'ca9cd5c31c3325af1f911aaaf633ca44',
+            'token': '817b7cb55b76c69f1bf8a413e5136de4',
             'Report': 'Events by Day or Hour',
             'Query': 'Single Event Segmentation by a Property by Day',
             'Properties Used?': true,
@@ -281,7 +281,7 @@ var runEventQuery = function(eventName, propName, dateRange, bucket) {
           var query = {
             'event': 'Query Run',
             'properties': {
-              'token': 'ca9cd5c31c3325af1f911aaaf633ca44',
+              'token': '817b7cb55b76c69f1bf8a413e5136de4',
               'Report': 'Events by Day or Hour',
               'Query': 'Single Event Segmentation by Hour',
               'Properties Used?': false,
@@ -376,7 +376,7 @@ var runEventQuery = function(eventName, propName, dateRange, bucket) {
           var query = {
             'event': 'Query Run',
             'properties': {
-              'token': 'ca9cd5c31c3325af1f911aaaf633ca44',
+              'token': '817b7cb55b76c69f1bf8a413e5136de4',
               'Report': 'Events by Day or Hour',
               'Query': 'Single Event Segmentation by Day',
               'Properties Used?': false,
@@ -506,7 +506,7 @@ var runEventQuery = function(eventName, propName, dateRange, bucket) {
           var query = {
             'event': 'Query Run',
             'properties': {
-              'token': 'ca9cd5c31c3325af1f911aaaf633ca44',
+              'token': '817b7cb55b76c69f1bf8a413e5136de4',
               'Report': 'Events by Day or Hour',
               'Query': 'Multi Event Segmentation by Hour',
               'Properties Used?': false,
@@ -599,7 +599,7 @@ var runEventQuery = function(eventName, propName, dateRange, bucket) {
           var query = {
             'event': 'Query Run',
             'properties': {
-              'token': 'ca9cd5c31c3325af1f911aaaf633ca44',
+              'token': '817b7cb55b76c69f1bf8a413e5136de4',
               'Report': 'Events by Day or Day',
               'Query': 'Single Event Segmentation by Hour',
               'Properties Used?': false,
